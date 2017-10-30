@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The Contiki Operating System
 ============================
 
@@ -17,3 +18,7 @@ and so on.
 For more information, see the Contiki website:
 
 [http://contiki-os.org](http://contiki-os.org)
+=======
+# TFG
+TFG Contiki OpenMote
+>>>>>>> 7c7881ac77936482586a09f021d518ac1b50b3a8
